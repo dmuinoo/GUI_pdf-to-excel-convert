@@ -26,6 +26,9 @@ Seleciona el pdf
 
 El programa procesará el PDF y generará un archivo Excel con las tablas extraídas.
 
+# Ejecutable
+Se sube un GUI.exe que es el ejecutable compatible con windows si no quieres realizar los pasos anteriores
+
 # Imagen
 
 ![Imagen de la GUI del programa](https://github.com/dmuinoo/GUI_pdf-to-excel-convert/blob/d6a7cef56aafa1bd210c9038de6631a587c63dca/GUI_photo.png)
