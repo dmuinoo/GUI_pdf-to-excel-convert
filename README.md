@@ -18,6 +18,10 @@ pip install pdfplumber pandas openpyxl PyQt5
 # Uso
 Ejecuta el script GUI.py.
 
+```python
+python GUI.py
+```
+
 Seleciona el pdf
 
 El programa procesará el PDF y generará un archivo Excel con las tablas extraídas.
@@ -25,7 +29,7 @@ El programa procesará el PDF y generará un archivo Excel con las tablas extra�
 # Imagen
 
 ![Imagen de la GUI del programa](https://github.com/dmuinoo/GUI_pdf-to-excel-convert/blob/d6a7cef56aafa1bd210c9038de6631a587c63dca/GUI_photo.png)
-<span>![</span><span></span><span>]</span><span>(</span><span>https://github.com/dmuinoo/GUI_pdf-to-excel-convert/blob/d6a7cef56aafa1bd210c9038de6631a587c63dca/GUI_photo.png</span><span>)</span>
+
 
 # Contribuciones
 Las contribuciones son bienvenidas. Si encuentras algún error o deseas agregar nuevas funcionalidades, no dudes en abrir un issue o enviar un pull request.
