@@ -27,7 +27,8 @@ Seleciona el pdf
 El programa procesará el PDF y generará un archivo Excel con las tablas extraídas.
 
 # Ejecutable
-Se sube un GUI.exe que es el ejecutable compatible con windows si no quieres realizar los pasos anteriores
+Se sube un GUI.exe que es el ejecutable compatible con windows si no quieres realizar los pasos anteriores. Se encuentra en:
+[GUI.EXE](https://drive.google.com/file/d/1SuVv_cK5ELNX4E2qYIa9a20DJ7_dUi8M/view?usp=drive_link)
 
 # Imagen
 
